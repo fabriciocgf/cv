@@ -1,37 +1,79 @@
-## Welcome to GitHub Pages
+# Fabricio Cesar Gomes Filho
 
-You can use the [editor on GitHub](https://github.com/fabriciocgf/cv/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+_Data engineer based in São Paulo, Brazil_ <br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+[Email](mailto:fabriciocgf@gmail.com) / [LinkedIn](https://www.linkedin.com/in/fabriciocgf/) / [GitHub](https://github.com/fabriciocgf/)
 
-### Markdown
+## 👨‍💻 Technical Experience
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 - Present)_
+_São Paulo - Brazil_
+<br><br>
 
-```markdown
-Syntax highlighted code block
+**Engineering Intern** @ [Embraer](https://embraer.com/br/pt)  _(Feb 2020 - Mar 2021)_
+_São José dos Campos - Brazil_<br>
+I've worked with Python, developing an internal tool for managing electrical loads.
+- **_Technologies used:_**
+	- Pandas
+	- Numpy 
+	- Command-line interface (CLI) 
+	<br><br>
 
-# Header 1
-## Header 2
-### Header 3
+**Praktikant** @ [Fraunhofer IOSB](https://www.iosb.fraunhofer.de/en.html)  _(Sep 2018 - Mar 2019)_
+Karlsruhe - Germany <br>
+Development of sensors using IoT technologies for the German ministry of environment 
+- **_Technologies used:_**
+	- Embedded C development 
+	- LoRaWAN Technology 
+	- Sensors Integration 
+	- Battery management
+	<br><br>
 
-- Bulleted
-- List
+## 📌 On The Side
 
-1. Numbered
-2. List
+**FPGA-based Remote Lab applied to Teaching Digital Electronics** _(2017 - 2019)_ <br>
+Proposal of a remote laboratory based on Field Programmable Gate Array - FPGA applied to the teaching of Digital Electronics. The main goal of this project is to propose a real test platform for digital projects, in which the student can reproduce the experiments carried out in person, and also propose and implement new projects of interest.
+- **_Technologies used:_**
+	- Python
+	- Flask
+	- SQL database 
+	<br><br>
 
-**Bold** and _Italic_ and `Code` text
+**Team Fenrir - Electronics and data team member** _(2019 - 2020)_<br>
+Team Fenrir's main goal is to develop a sustainable vehicle capable of traveling the longest distance possible using the least amount of fuel in order to participate in the world's biggest energy efficiency competition: the Shell Eco-Marathon. 
+- **_Technologies used:_**
+	- Development of speed controller for electric motors
+	- PCB board development using Proteus software
+	- Embedded C development for sensor systems using ESP32 platform
+	- backend development using Python/Flask
+	- database using SQLite3
+	<br><br>
 
-[Link](url) and ![Image](src)
-```
+## 💬 Languages
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+**Portuguese**: Native 
+**English**: C2 
+**German**: A1
+<br><br>
 
-### Jekyll Themes
+## 👨‍🎓 Education
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/fabriciocgf/cv/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**Bachelor of Electrical Engineering**
+[_São Paulo State University (UNESP)_](https://www2.unesp.br/)
+Guaratinguetá - Brazil _(2014 - 2021)_
+<br>
 
-### Support or Contact
+**Electrical Engineering with focus on renewable energy**
+[_Hochschule Karlsruhe – Technik und Wirtschaft_](https://www.h-ka.de/en/study/study-in-english/degree-programs) 
+Karlsruhe - Germany _(2018 - 2019)_
+<br>
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Skills
+● Python 
+● Pandas 
+● SQL 
+● Flask 
+● Microsoft Excel 
+● MATLAB/Simulink 
+● LoRaWan 
+● Embedded C development
