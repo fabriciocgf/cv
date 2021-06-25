@@ -6,11 +6,11 @@ _Data engineer based in São Paulo, Brazil_ <br>
 
 ## 👨‍💻 Technical Experience
 
-**Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 - Present)_
-_São Paulo - Brazil_
+**Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 - Present)_<br>
+_São Paulo - Brazil_<br>
 <br><br>
 
-**Engineering Intern** @ [Embraer](https://embraer.com/br/pt)  _(Feb 2020 - Mar 2021)_
+**Engineering Intern** @ [Embraer](https://embraer.com/br/pt)  _(Feb 2020 - Mar 2021)_<br>
 _São José dos Campos - Brazil_<br>
 I've worked with Python, developing an internal tool for managing electrical loads.
 - **_Technologies used:_**
@@ -19,7 +19,7 @@ I've worked with Python, developing an internal tool for managing electrical loa
 	- Command-line interface (CLI) 
 	<br><br>
 
-**Praktikant** @ [Fraunhofer IOSB](https://www.iosb.fraunhofer.de/en.html)  _(Sep 2018 - Mar 2019)_
+**Praktikant** @ [Fraunhofer IOSB](https://www.iosb.fraunhofer.de/en.html)  _(Sep 2018 - Mar 2019)_<br>
 Karlsruhe - Germany <br>
 Development of sensors using IoT technologies for the German ministry of environment 
 - **_Technologies used:_**
@@ -51,29 +51,29 @@ Team Fenrir's main goal is to develop a sustainable vehicle capable of traveling
 
 ## 💬 Languages
 
-**Portuguese**: Native 
-**English**: C2 
-**German**: A1
+**Portuguese**: Native <br>
+**English**: C2 <br>
+**German**: A1<br>
 <br><br>
 
 ## 👨‍🎓 Education
 
-**Bachelor of Electrical Engineering**
-[_São Paulo State University (UNESP)_](https://www2.unesp.br/)
-Guaratinguetá - Brazil _(2014 - 2021)_
+**Bachelor of Electrical Engineering**<br>
+[_São Paulo State University (UNESP)_](https://www2.unesp.br/)<br>
+Guaratinguetá - Brazil _(2014 - 2021)_<br>
 <br>
 
-**Electrical Engineering with focus on renewable energy**
-[_Hochschule Karlsruhe – Technik und Wirtschaft_](https://www.h-ka.de/en/study/study-in-english/degree-programs) 
-Karlsruhe - Germany _(2018 - 2019)_
+**Electrical Engineering with focus on renewable energy**<br>
+[_Hochschule Karlsruhe – Technik und Wirtschaft_](https://www.h-ka.de/en/study/study-in-english/degree-programs)<br>
+Karlsruhe - Germany _(2018 - 2019)_<br>
 <br>
 
 ## Skills
-● Python 
-● Pandas 
-● SQL 
-● Flask 
-● Microsoft Excel 
-● MATLAB/Simulink 
-● LoRaWan 
-● Embedded C development
+● Python<br>
+● Pandas<br>
+● SQL<br>
+● Flask<br>
+● Microsoft Excel<br>
+● MATLAB/Simulink<br>
+● LoRaWan<br>
+● Embedded C development<br>
