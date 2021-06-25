@@ -1,5 +1,3 @@
-# Fabricio Cesar Gomes Filho
-
 _Data engineer based in São Paulo, Brazil_ <br>
 
 [Email](mailto:fabriciocgf@gmail.com) / [LinkedIn](https://www.linkedin.com/in/fabriciocgf/) / [GitHub](https://github.com/fabriciocgf/)
