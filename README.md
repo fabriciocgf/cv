@@ -2,7 +2,7 @@ _Data engineer based in São Paulo, Brazil_ <br>
 
 [Email](mailto:fabriciocgf@gmail.com) / [LinkedIn](https://www.linkedin.com/in/fabriciocgf/) / [GitHub](https://github.com/fabriciocgf/)
 
-## 👨‍💻 Technical Experience
+## Technical Experience
 
 **Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 - Present)_<br>
 _São Paulo - Brazil_<br><br>
@@ -27,10 +27,11 @@ Development of sensors using IoT technologies for the German ministry of environ
 	- Battery management
 	<br><br>
 
-## 📌 On The Side
+## On The Side
 
 **FPGA-based Remote Lab for Teaching Digital Electronics** _(2017 - 2019)_ <br>
 Proposal of a remote laboratory based on Field Programmable Gate Array - FPGA applied to the teaching of Digital Electronics. The main goal of this project is to propose a real test platform for digital projects, in which the student can reproduce the experiments carried out in person, and also propose and implement new projects of interest.
+
 - **_Technologies used:_**
 	- Python
 	- Flask
@@ -47,14 +48,14 @@ Team Fenrir's main goal is to develop a sustainable vehicle capable of traveling
 	- database using SQLite3
 	<br><br>
 
-## 💬 Languages
+## Languages
 
 **Portuguese**: Native <br>
 **English**: C2 <br>
 **German**: A1<br>
 <br><br>
 
-## 👨‍🎓 Education
+## Education
 
 **Bachelor of Electrical Engineering**<br>
 [_São Paulo State University (UNESP)_](https://www2.unesp.br/)<br>
