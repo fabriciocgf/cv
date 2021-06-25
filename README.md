@@ -7,12 +7,12 @@ _Data engineer based in São Paulo, Brazil_ <br>
 ## 👨‍💻 Technical Experience
 
 **Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 - Present)_<br>
-_São Paulo - Brazil_<br>
-<br><br>
+_São Paulo - Brazil_<br><br>
 
 **Engineering Intern** @ [Embraer](https://embraer.com/br/pt)  _(Feb 2020 - Mar 2021)_<br>
 _São José dos Campos - Brazil_<br>
 I've worked with Python, developing an internal tool for managing electrical loads.
+
 - **_Technologies used:_**
 	- Pandas
 	- Numpy 
