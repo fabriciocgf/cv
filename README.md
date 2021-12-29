@@ -29,7 +29,7 @@ Development of sensors using IoT technologies for the German ministry of environ
 
 ## On The Side
 
-[**FPGA-based Remote Lab for Teaching Digital Electronics**](http://www.journalijdr.com/fpga-based-remote-laboratory-digital-electronics) _(2017 - 2019)_ <br>
+**FPGA-based Remote Lab for Teaching Digital Electronics** @ [IJDR](http://www.journalijdr.com/fpga-based-remote-laboratory-digital-electronics) _(2017 - 2019)_ <br>
 Proposal of a remote laboratory based on Field Programmable Gate Array - FPGA applied to the teaching of Digital Electronics. The main goal of this project is to propose a real test platform for digital projects, in which the student can reproduce the experiments carried out in person, and also propose and implement new projects of interest.
 
 - **_Technologies used:_**
