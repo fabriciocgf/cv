@@ -5,7 +5,7 @@ _Data Scientist based in São Paulo, Brazil_ <br>
 ## Technical Experience
 
 **Analytics Business Analyst II** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Nov 2021 - Present)_<br>  
-_São Paulo - Brazil_
+_São Paulo - Brazil_<br><br>
 
 **Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 - Nov 2021)_<br>
 _São Paulo - Brazil_<br><br>
