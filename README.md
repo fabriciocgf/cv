@@ -1,10 +1,14 @@
-_Data engineer based in São Paulo, Brazil_ <br>
+_Data Scientist based in São Paulo, Brazil_ <br>
 
 [Email](mailto:fabriciocgf@gmail.com) / [LinkedIn](https://www.linkedin.com/in/fabriciocgf/) / [GitHub](https://github.com/fabriciocgf/)
 
 ## Technical Experience
 
-**Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 - Present)_<br>
+**Analytics Business Analyst II** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Nov 2021 - Present)_  
+  
+_São Paulo - Brazil_
+
+**Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 - Nov 2021)_<br>
 _São Paulo - Brazil_<br><br>
 
 **Engineering Intern** @ [Embraer](https://embraer.com/br/pt)  _(Feb 2020 - Mar 2021)_<br>
