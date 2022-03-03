@@ -4,7 +4,7 @@ _Data Scientist based in São Paulo, Brazil_ <br>
 
 ## Technical Experience
 
-**Analytics Business Analyst II** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Nov 2021 - Present)_<br>
+**Analytics Business Analyst II** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Nov 2021 - Present)_<br>  
 _São Paulo - Brazil_
 
 **Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 - Nov 2021)_<br>
@@ -63,6 +63,11 @@ Team Fenrir's main goal is to develop a sustainable vehicle capable of traveling
 **Bachelor of Electrical Engineering**<br>
 [_São Paulo State University (UNESP)_](https://www2.unesp.br/)<br>
 Guaratinguetá - Brazil _(2014 - 2021)_<br>
+<br>
+
+**MBA - Data Science & Analytics**<br>
+[_University of São Paulo (USP/Esalq)_](https://mbauspesalq.com/)<br>
+São Paulo - Brazil _(2021 - 2023)_<br>
 <br>
 
 **Electrical Engineering with focus on renewable energy**<br>
