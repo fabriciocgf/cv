@@ -23,16 +23,19 @@
   <body>
     <div class="wrapper">
       <header>
-        <h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1>
-
-        {% if site.logo %}
-          <img src="{{site.logo | relative_url}}" alt="Logo" />
-        {% endif %}
-        
-        {% if site.skill %}
-          {% include_relative {{ site.skill }} %}
-        {% endif %}
-
+        <table style="width: 100%; text-align: left;" >
+        <tbody>
+        <tr>
+        <td><h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1></td>
+        </tr>
+        <tr>
+        <td>{% if site.logo %}<img src="{{site.logo | relative_url}}" alt="Logo" />{% endif %}</td>
+        </tr>
+        <tr>
+        <td>{% if site.skill %}{% include_relative {{ site.skill }} %}{% endif %}</td>
+        </tr>
+        </tbody>
+        </table>
       </header>
       <section>
 
