@@ -30,7 +30,7 @@
         {% endif %}
         
         {% if site.skill %}
-          {{ site.skill | relative_url . }}
+          {% include {{ site.skill }} %}
         {% endif %}
 
       </header>
