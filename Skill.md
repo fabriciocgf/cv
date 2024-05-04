@@ -1,5 +1,9 @@
 <h2>Skills</h2>
-<p>● Pyton (Pandas, Scikit-learn, Matplotlib. Geopandas)<br>
+<p>● Pyton<br>
+● Pandas<br>
+● Scikit-learn<br>
+● Matplotlib<br>
+● Geopandas<br>
 ● Geospatial data processing<br>
 ● Recommendation engines<br>
 ● SQL Server<br>
