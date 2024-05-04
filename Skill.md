@@ -9,5 +9,9 @@
 ● SQL Server<br>
 ● Git (CI/CD)<br>
 ● Containers / Virtualization<br>
-<br>
-</p>
+<br></p>
+
+<h2>Languages</h2>
+<p><strong>Portuguese</strong>: Native <br>
+<strong>English</strong>: C2 <br>
+<strong>German</strong>: A1<br></p>
