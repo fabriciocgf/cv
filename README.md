@@ -11,11 +11,11 @@ _São Paulo - Brazil_<br><br>
 _São Paulo - Brazil_<br><br>
 
 **Analytics Business Analyst II** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Nov 2021 - Apr 2022)_<br>
-_São Paulo - Brazil_<br><br>
+_São Paulo - Brazil_<br>
 I was part of the team dedicated to implementing digital call centers using AI-assisted technologies, where we carried out initial tests with the google Contact Center AI tools.
 
 **Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 - Nov 2021)_<br>
-_São Paulo - Brazil_<br><br>
+_São Paulo - Brazil_<br>
 I was assigned to a major banking client to help define the digital strategy for a spin-off that would reach 80 million users. I worked on customer sentiment analysis and external market studies to define best practices.
 
 **Engineering Intern** @ [Embraer](https://embraer.com/br/pt)  _(Feb 2020 - Mar 2021)_<br>
