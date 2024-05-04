@@ -49,7 +49,7 @@ Guaratinguetá - Brazil _(2014 - 2021)_<br>
 **Electrical Engineering with focus on renewable energy**<br>
 [_Hochschule Karlsruhe – Technik und Wirtschaft_](https://www.h-ka.de/en/study/study-in-english/degree-programs)<br>
 Karlsruhe - Germany _(2018 - 2019)_<br>
-<br><br>
+<br>
 
 ## Languages
 **Portuguese**: Native <br>
