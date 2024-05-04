@@ -2,15 +2,6 @@ _Data Scientist based in São Paulo, Brazil_ <br>
 
 [Email](mailto:fabriciocgf@gmail.com) / [LinkedIn](https://www.linkedin.com/in/fabriciocgf/) / [GitHub](https://github.com/fabriciocgf/)
 
-## Skills
-● Pyton (Pandas, Scikit-learn, Matplotlib. Geopandas)<br>
-● Geospatial data processing<br>
-● Recommendation engines<br>
-● SQL Server<br>
-● Git (CI/CD)<br>
-● Containers / Virtualization<br>
-<br>
-
 ## Technical Experience
 
 **Value Creation Analyst III** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2024 - Present)_<br>
@@ -50,8 +41,3 @@ Guaratinguetá - Brazil _(2014 - 2021)_<br>
 [_Hochschule Karlsruhe – Technik und Wirtschaft_](https://www.h-ka.de/en/study/study-in-english/degree-programs)<br>
 Karlsruhe - Germany _(2018 - 2019)_<br>
 <br>
-
-## Languages
-**Portuguese**: Native <br>
-**English**: C2 <br>
-**German**: A1<br>
