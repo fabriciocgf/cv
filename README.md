@@ -4,7 +4,13 @@ _Data Scientist based in São Paulo, Brazil_ <br>
 
 ## Technical Experience
 
-**Analytics Business Analyst II** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Nov 2021 - Present)_<br>
+**Value Creation Analyst II** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2024 - Present)_<br>
+_São Paulo - Brazil_<br><br>
+
+**Value Creation Analyst II** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2022 - Apr 2024)_<br>
+_São Paulo - Brazil_<br><br>
+
+**Analytics Business Analyst II** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Nov 2021 - Apr 2022)_<br>
 _São Paulo - Brazil_<br><br>
 
 **Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 - Nov 2021)_<br>
