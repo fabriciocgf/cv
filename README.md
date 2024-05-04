@@ -34,7 +34,7 @@ I've worked with Python, developing an internal tool for managing electrical loa
 **Praktikant** @ [Fraunhofer IOSB](https://www.iosb.fraunhofer.de/en.html)  _(Sep 2018 - Mar 2019)_<br>
 Karlsruhe - Germany <br>
 Development of sensors using IoT technologies for the German ministry of environment 
-<br>
+<br><br>
 
 ## Education
 
@@ -49,6 +49,7 @@ Guaratinguetá - Brazil _(2014 - 2021)_<br>
 **Electrical Engineering with focus on renewable energy**<br>
 [_Hochschule Karlsruhe – Technik und Wirtschaft_](https://www.h-ka.de/en/study/study-in-english/degree-programs)<br>
 Karlsruhe - Germany _(2018 - 2019)_<br>
+<br><br>
 
 ## Languages
 **Portuguese**: Native <br>
