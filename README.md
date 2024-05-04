@@ -4,7 +4,7 @@ _Data Scientist based in São Paulo, Brazil_ <br>
 
 ## Technical Experience
 
-**Value Creation Analyst II** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2024 - Present)_<br>
+**Value Creation Analyst III** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2024 - Present)_<br>
 _São Paulo - Brazil_<br><br>
 
 **Value Creation Analyst II** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2022 - Apr 2024)_<br>
