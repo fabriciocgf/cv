@@ -28,8 +28,10 @@
         {% if site.logo %}
           <img src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
-
-        {{ Skill.md }}
+        
+        {% if site.skill %}
+          {{site.skill | relative_url}}
+        {% endif %}
 
       </header>
       <section>
