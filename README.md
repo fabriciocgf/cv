@@ -9,6 +9,7 @@ _Data Scientist based in São Paulo, Brazil_ <br>
 ● SQL Server<br>
 ● Git (CI/CD)<br>
 ● Containers / Virtualization<br>
+<br>
 
 ## Technical Experience
 
@@ -33,14 +34,7 @@ I've worked with Python, developing an internal tool for managing electrical loa
 **Praktikant** @ [Fraunhofer IOSB](https://www.iosb.fraunhofer.de/en.html)  _(Sep 2018 - Mar 2019)_<br>
 Karlsruhe - Germany <br>
 Development of sensors using IoT technologies for the German ministry of environment 
-
-## On The Side
-
-**FPGA-based Remote Lab for Digital Electronics** @ [IJDR](http://www.journalijdr.com/fpga-based-remote-laboratory-digital-electronics) _(2017 - 2019)_ <br>
-Proposal of a remote laboratory based on Field Programmable Gate Array - FPGA applied to the teaching of Digital Electronics. The main goal of this project is to propose a real test platform for digital projects, in which the student can reproduce the experiments carried out in person, and also propose and implement new projects of interest.
-
-**Team Fenrir - Electronics and data team member** _(2019 - 2020)_<br>
-Team Fenrir's main goal is to develop a sustainable vehicle capable of traveling the longest distance possible using the least amount of fuel in order to participate in the world's biggest energy efficiency competition: the Shell Eco-Marathon. 
+<br>
 
 ## Education
 
