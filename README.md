@@ -41,17 +41,14 @@ Development of sensors using IoT technologies for the German ministry of environ
 **Bachelor of Electrical Engineering**<br>
 [_São Paulo State University (UNESP)_](https://www2.unesp.br/)<br>
 Guaratinguetá - Brazil _(2014 - 2021)_<br>
-<br>
 
 **MBA - Data Science & Analytics**<br>
 [_University of São Paulo (USP/Esalq)_](https://mbauspesalq.com/)<br>
 São Paulo - Brazil _(2021 - 2023)_<br>
-<br>
 
 **Electrical Engineering with focus on renewable energy**<br>
 [_Hochschule Karlsruhe – Technik und Wirtschaft_](https://www.h-ka.de/en/study/study-in-english/degree-programs)<br>
 Karlsruhe - Germany _(2018 - 2019)_<br>
-<br>
 
 ## Languages
 **Portuguese**: Native <br>
