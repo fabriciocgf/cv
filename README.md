@@ -39,7 +39,6 @@ Team Fenrir's main goal is to develop a sustainable vehicle capable of traveling
 **Portuguese**: Native <br>
 **English**: C2 <br>
 **German**: A1<br>
-<br><br>
 
 ## Education
 
