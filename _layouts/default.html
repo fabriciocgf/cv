@@ -26,13 +26,13 @@
         <table style="width: 100%; text-align: left; border: 1px solid #FFFFFF;" >
         <tbody>
         <tr style="border: 1px solid #FFFFFF;">
-        <td><h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1></td>
+        <td style="border: 1px solid #FFFFFF;"><h1><a href="{{ "/" | absolute_url }}">{{ site.title | default: site.github.repository_name }}</a></h1></td>
         </tr>
         <tr style="border: 1px solid #FFFFFF;">
-        <td>{% if site.logo %}<img src="{{site.logo | relative_url}}" alt="Logo" />{% endif %}</td>
+        <td style="border: 1px solid #FFFFFF;">{% if site.logo %}<img src="{{site.logo | relative_url}}" alt="Logo" />{% endif %}</td>
         </tr>
         <tr style="border: 1px solid #FFFFFF;">
-        <td>{% if site.skill %}{% include_relative {{ site.skill }} %}{% endif %}</td>
+        <td style="border: 1px solid #FFFFFF;">{% if site.skill %}{% include_relative {{ site.skill }} %}{% endif %}</td>
         </tr>
         </tbody>
         </table>
