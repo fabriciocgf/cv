@@ -2,6 +2,14 @@ _Data Scientist based in São Paulo, Brazil_ <br>
 
 [Email](mailto:fabriciocgf@gmail.com) / [LinkedIn](https://www.linkedin.com/in/fabriciocgf/) / [GitHub](https://github.com/fabriciocgf/)
 
+## Skills
+● Pyton (Pandas, Scikit-learn, Matplotlib. Geopandas)<br>
+● Geospatial data processing<br>
+● Recommendation engines<br>
+● SQL Server<br>
+● Git (CI/CD)<br>
+● Containers / Virtualization<br>
+
 ## Technical Experience
 
 **Value Creation Analyst III** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2024 - Present)_<br>
@@ -34,12 +42,6 @@ Proposal of a remote laboratory based on Field Programmable Gate Array - FPGA ap
 **Team Fenrir - Electronics and data team member** _(2019 - 2020)_<br>
 Team Fenrir's main goal is to develop a sustainable vehicle capable of traveling the longest distance possible using the least amount of fuel in order to participate in the world's biggest energy efficiency competition: the Shell Eco-Marathon. 
 
-## Languages
-
-**Portuguese**: Native <br>
-**English**: C2 <br>
-**German**: A1<br>
-
 ## Education
 
 **Bachelor of Electrical Engineering**<br>
@@ -57,10 +59,7 @@ São Paulo - Brazil _(2021 - 2023)_<br>
 Karlsruhe - Germany _(2018 - 2019)_<br>
 <br>
 
-## Skills
-● Pyton (Pandas, Scikit-learn, Matplotlib. Geopandas)<br>
-● Geospatial data processing<br>
-● Recommendation engines<br>
-● SQL Server<br>
-● Git (CI/CD)<br>
-● Containers / Virtualizationbr>
+## Languages
+**Portuguese**: Native <br>
+**English**: C2 <br>
+**German**: A1<br>
