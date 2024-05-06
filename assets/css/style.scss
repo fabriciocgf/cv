@@ -4,6 +4,10 @@
 @import "{{ site.theme }}";
 
 @media print {
+    @page {
+        size: 210mm 297mm;
+    }
+    
     div.wrapper {
         width:auto;
         margin: 0
