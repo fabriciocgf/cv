@@ -8,7 +8,7 @@
 ● Custommer segmentation<br>
 ● Processing large datasets<br>
 ● Recommendation engines<br>
-● Web Scraping / Crawlers<br>
+● Web Scraping/Crawling<br>
 ● SQL Server<br>
 ● Git (CI/CD)<br>
 ● Containers / Virtualization<br>
