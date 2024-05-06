@@ -6,6 +6,7 @@
 @media print {
     @page {
         size: A4;
+        margin: 1cm;
     }
     .highlight table td {
     padding: 5px
