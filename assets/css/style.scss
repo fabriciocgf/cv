@@ -1,4 +1,5 @@
 ---
 ---
 
-@import "{{ site.theme }}" screen, print;
+@import "{{ site.theme }}";
+@import "{{ site.theme }}" print;
