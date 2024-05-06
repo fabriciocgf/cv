@@ -27,7 +27,7 @@ I've worked with Python, developing an internal tool for managing electrical loa
 
 **Praktikant** @ [Fraunhofer IOSB](https://www.iosb.fraunhofer.de/en.html)  _(Sep 2018 - Mar 2019)_<br>
 Karlsruhe - Germany <br>
-Development of sensors using IoT technologies for the German ministry of environment 
+I've developed sensors using IoT technologies for the German Ministry of Environment. 
 <br><br>
 
 ## Education
