@@ -11,7 +11,6 @@ Aenean scelerisque ipsum at purus rutrum luctus. Morbi eleifend pretium pulvinar
 **Value Creation Analyst II** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2022 - Apr 2024)_<br>
 _São Paulo - Brazil_<br>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec felis massa, sagittis in mattis in, tempus vitae massa. Aliquam at lacinia magna. Vivamus sit amet aliquet nulla, vel dignissim tortor. Morbi fringilla sed justo at pulvinar. Aenean scelerisque ipsum at purus rutrum luctus. Morbi eleifend pretium pulvinar. Aenean lectus nibh, laoreet ac nibh at, facilisis iaculis nisi.
-Nullam euismod purus ut eros vehicula commodo.
 
 **Analytics Business Analyst II** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Nov 2021 - Apr 2022)_<br>
 _São Paulo - Brazil_<br>
