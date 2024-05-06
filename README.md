@@ -1,4 +1,4 @@
-_Data Scientist based in São Paulo, Brazil_
+_Data Scientist based in São Paulo, Brazil_<br>
 [Email](mailto:fabriciocgf@gmail.com) / [LinkedIn](https://www.linkedin.com/in/fabriciocgf/) / [GitHub](https://github.com/fabriciocgf/)
 
 ## Technical Experience
