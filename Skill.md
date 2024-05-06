@@ -5,7 +5,10 @@
 ● Matplotlib<br>
 ● Geopandas<br>
 ● Geospatial data processing<br>
+● Custommer segmentation<br>
+● Processing large datasets<br>
 ● Recommendation engines<br>
+● Web Scraping / Crawlers<br>
 ● SQL Server<br>
 ● Git (CI/CD)<br>
 ● Containers / Virtualization<br>
