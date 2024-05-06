@@ -9,9 +9,9 @@
 ● Processing large datasets<br>
 ● Recommendation engines<br>
 ● Web Scraping/Crawling<br>
+● Containers / Virtualization<br>
 ● SQL Server<br>
 ● Git (CI/CD)<br>
-● Containers / Virtualization<br>
 <br></p>
 
 <h2>Languages</h2>
