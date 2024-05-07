@@ -5,7 +5,7 @@ _Data Scientist based in São Paulo, Brazil_<br>
 
 **Value Creation Analyst III** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2024 - Present)_<br>
 _São Paulo - Brazil_<br>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec felis massa, sagittis in mattis in, tempus vitae massa. Aliquam at lacinia magna. Aenean scelerisque ipsum at purus rutrum luctus. Morbi eleifend pretium pulvinar.
+I supported the implementation of a new pricing policy for an agricultural distributor, developing cost indicators based on market data obtained through APIs and web scraping of competitors. I helped implement models to estimate the size and share of customers' wallets. I worked with geographic clustering of potential customers, generating a better understanding of the stores' influence zones.
 
 **Value Creation Analyst II** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2022 - Apr 2024)_<br>
 _São Paulo - Brazil_<br>
