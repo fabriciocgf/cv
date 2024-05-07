@@ -3,6 +3,12 @@
 
 @import "{{ site.theme }}";
 
+th,td {
+    text-align: left;
+    padding: 5px 5px;
+    border: 0 !important;
+}
+
 @media print {
     @page {
         size: 794px 1123px;
