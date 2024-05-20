@@ -4,9 +4,9 @@
 ● Scikit-learn<br>
 ● Matplotlib<br>
 ● Geopandas<br>
-● Processamento de dados Geoespaciais<br>
+● Dados Geoespaciais<br>
 ● Segmentação de clientes<br>
-● Processamento de grandes volumes de dados<br>
+● Grandes volumes de dados<br>
 ● Sistemas de recomendação<br>
 ● Web Scraping/Crawling<br>
 ● Containers / Virtualização<br>
