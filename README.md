@@ -10,6 +10,7 @@ Apoiei a implementação de uma nova política de preços para uma distribuidora
 **Value Creation Analyst II** Em [Patria Investments](https://www.patriainvestimentos.com.br/) _(Abr 2022 - Abr 2024)_<br>
 _São Paulo - Brasil_<br>
 Realizei análises aprofundadas para entender os pontos fortes de diferentes empresas e o comportamento dos seus clientes, o que ajudou a definir suas propostas de valor. Desenvolvi algoritmos de recomendação de produtos considerando aspectos operacionais e resultados. Realizei um estudo do mercado de logística frigorificada no Chile, identificando oportunidades e concorrência em cada região de atuação. Auxiliei na implementação de um novo modelo de Go-To-Market em uma empresa de distribuição por meio de análises quantitativas.
+
 Elaborei uma política de fidelização de clientes usando algoritmos de clusterização para identificar clientes semelhantes definindo parâmetros para contato. Propus novos KPIs e métricas para avaliar a eficácia da força de vendas entre diferentes equipes. Liderei um projeto para melhorar a variedade de produtos de nutrição animal e conduzi análises de geomarketing para identificar concorrentes e oportunidades regionais usando web scraping. Desenvolvi uma ferramenta de projeção de receita de ponta a ponta com uma interface gráfica de usuário e análises em PowerBI, incorporando dados de pipeline de vendas.
 
 **Analytics Business Analyst II** Em [Deloitte](https://www2.deloitte.com/br/pt.html) _(Nov 2021 - Abr 2022)_<br>
@@ -27,7 +28,7 @@ Trabalhei com Python, desenvolvendo uma ferramenta interna para gerenciar cargas
 **Estagiário de engenharia** Em [Fraunhofer IOSB](https://www.iosb.fraunhofer.de/en.html)  _(Set 2018 - Mar 2019)_<br>
 Karlsruhe - Alemanha <br>
 Realizei o desenvolvimento de sensores usando tecnologias de IoT para o Ministério do Meio Ambiente da Alemanha.
-<br><br>
+<br>
 
 ## Formação
 
