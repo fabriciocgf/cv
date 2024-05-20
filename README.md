@@ -29,7 +29,6 @@ Trabalhei com Python, desenvolvendo uma ferramenta interna para gerenciar cargas
 Karlsruhe - Alemanha <br>
 Realizei o desenvolvimento de sensores usando tecnologias de IoT para o Ministério do Meio Ambiente da Alemanha.
 <br><br>
-
 ## Formação
 
 **MBA - Data Science & Analytics**<br>
