@@ -28,7 +28,7 @@ Trabalhei com Python, desenvolvendo uma ferramenta interna para gerenciar cargas
 **Estagiário de engenharia** Em [Fraunhofer IOSB](https://www.iosb.fraunhofer.de/en.html)  _(Set 2018 - Mar 2019)_<br>
 Karlsruhe - Alemanha <br>
 Realizei o desenvolvimento de sensores usando tecnologias de IoT para o Ministério do Meio Ambiente da Alemanha.
-<br><br>
+
 ## Formação
 
 **MBA - Data Science & Analytics**<br>
