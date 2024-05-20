@@ -2,7 +2,6 @@ _Cientista de dados - São Paulo, Brasil_<br>
 [Email](mailto:fabriciocgf@gmail.com) / [LinkedIn](https://www.linkedin.com/in/fabriciocgf/) / [GitHub](https://github.com/fabriciocgf/)
 
 ## Experiência profissional
-
 **Value Creation Analyst III** Em [Patria Investments](https://www.patriainvestimentos.com.br/) _(Abr 2024 - Presente)_<br>
 _São Paulo - Brasil_<br>
 Apoiei a implementação de uma nova política de preços para uma distribuidora agropecuária, desenvolvendo indicadores de custo com base em dados de mercado obtidos por meio de APIs e scraping dos concorrentes na Web. Ajudei a implementar modelos para estimar o tamanho e a participação nas carteiras dos clientes. Trabalhei com clusterização geográfica de clientes potenciais, gerando um melhor entendimento das zonas de influência das lojas.
@@ -28,9 +27,9 @@ Trabalhei com Python, desenvolvendo uma ferramenta interna para gerenciar cargas
 **Estagiário de engenharia** Em [Fraunhofer IOSB](https://www.iosb.fraunhofer.de/en.html)  _(Set 2018 - Mar 2019)_<br>
 Karlsruhe - Alemanha <br>
 Realizei o desenvolvimento de sensores usando tecnologias de IoT para o Ministério do Meio Ambiente da Alemanha.
+<br><br>
 
 ## Formação
-
 **MBA - Data Science & Analytics**<br>
 [_Universidade de São Paulo (USP/Esalq)_](https://mbauspesalq.com/)<br>
 São Paulo - Brasil _(2021 - 2023)_<br>
