@@ -18,7 +18,7 @@ _São Paulo, Brazil_
 - Developed geo-clustering tools and market intelligence dashboards to enhance project alignment and strategic territory planning.  
 - Used data modeling to identify cost-to-serve gaps and wallet share opportunities across business units.
 
-**Value Creation Analyst II** @ Patria Investments _(Apr 2022 – Apr 2024)_  
+**Value Creation Analyst II** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2022 – Apr 2024)_  
 _São Paulo, Brazil_  
 - Conducted project assessments to align value creation opportunities with corporate strategy in portfolio companies.  
 - Led the simplification of a Go-To-Market model by implementing new KPIs and customer segmentation frameworks.  
