@@ -3,7 +3,11 @@ _Data Scientist based in São Paulo, Brazil_<br>
 
 ## Technical Experience
 
-**Value Creation Analyst III** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2024 - Present)_<br>
+**Senior Platform Engineer** @ [Santander](https://www.santander.com.br/) _(Oct 2024 - Present)_<br>
+_São Paulo - Brazil_<br>
+I work in the continuous improvement team with a focus on profitability and capital. My responsibilities include enhancing existing RWA (Risk-Weighted Assets) closing processes through automation and improvements in the calculation engines. I contribute to increasing operational efficiency by optimizing internal financial processes.
+
+**Value Creation Analyst III** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2024 - Oct 2024)_<br>
 _São Paulo - Brazil_<br>
 I supported the implementation of a new pricing policy for an agricultural distributor, developing cost indicators based on market data obtained through APIs and web scraping of competitors. I helped implement models to estimate the size and share of customers' wallets. I worked with geographic clustering of potential customers, generating a better understanding of the stores' influence zones.
 
