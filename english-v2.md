@@ -30,7 +30,7 @@ _São Paulo, Brazil_
 - Participated in the early-stage implementation of digital operations frameworks using AI and automation.  
 - Conducted process mapping to support change management and training documentation.
 
-**Analytics Business Analyst** @ Deloitte _(Apr 2021 – Nov 2021)_  
+**Analytics Business Analyst** @ [Deloitte](https://www2.deloitte.com/br/pt.html) _(Apr 2021 – Nov 2021)_  
 _São Paulo, Brazil_  
 - Supported the spin-off of a major digital bank through user research, sentiment analysis, and competitor benchmarking.  
 - Provided insights that helped define the core value proposition and roadmap for the launch.
