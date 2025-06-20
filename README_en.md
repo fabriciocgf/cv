@@ -5,7 +5,7 @@ _Data Scientist based in São Paulo, Brazil_<br>
 
 **Senior Platform Engineer** @ [Santander](https://www.santander.com.br/) _(Oct 2024 - Present)_<br>
 _São Paulo - Brazil_<br>
-I work in the continuous improvement team with a focus on profitability and capital. My responsibilities include enhancing existing RWA (Risk-Weighted Assets) closing processes through automation and improvements in the calculation engines. I contribute to increasing operational efficiency by optimizing internal financial processes.
+I work on the continuous improvement team focused on profitability and capital optimization. I lead initiatives to automate and streamline RWA (Risk-Weighted Assets) closing processes, reducing manual workload and increasing accuracy. I help improve the performance and reliability of financial calculation engines, contributing to more agile and efficient capital management across the organization.
 
 **Value Creation Analyst III** @ [Patria Investments](https://www.patriainvestimentos.com.br/) _(Apr 2024 - Oct 2024)_<br>
 _São Paulo - Brazil_<br>
