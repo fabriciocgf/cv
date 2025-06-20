@@ -4,7 +4,7 @@ _Data Scientist | Project & Process Optimization Specialist | Based in São Paul
 
 ---
 
-## 🧠 Technical & Project Experience
+## Technical & Project Experience
 
 **Senior Platform Engineer** @ [Santander](https://www.santander.com.br/) _(Oct 2024 – Present)_  
 _São Paulo, Brazil_  
@@ -45,7 +45,7 @@ _Karlsruhe, Germany_
 
 ---
 
-## 🎓 Education
+## Education
 
 **MBA - Data Science & Analytics**<br>
 [_University of São Paulo (USP/Esalq)_](https://mbauspesalq.com/)<br>
@@ -61,7 +61,7 @@ Karlsruhe - Germany _(2018 - 2019)_<br>
 
 ---
 
-## 💼 Skills
+## Skills
 
 - Capital Project Analysis • Stakeholder Engagement • Change Leadership  
 - Python • SQL Server • Power BI • Web Scraping • Scikit-learn • CI/CD with Git  
@@ -70,7 +70,7 @@ Karlsruhe - Germany _(2018 - 2019)_<br>
 
 ---
 
-## 🌍 Languages
+## Languages
 
 - **Portuguese**: Native  
 - **English**: Fluent (C2)  
