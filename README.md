@@ -3,7 +3,11 @@ _Cientista de dados - São Paulo, Brasil_<br>
 
 ## Experiência profissional
 
-**Value Creation Analyst III** – [Patria Investments](https://www.patriainvestimentos.com.br/) _(Abr 2024 - Presente)_<br>
+**Senior Platform Engineer** @ [Santander](https://www.santander.com.br/) _(Out 2024 - Presente)_<br>
+_São Paulo - Brazil_<br>
+Atuo na equipe de melhoria contínua focada em rentabilidade e otimização de capital. Lidero iniciativas de automação e engenharia de dados para os processos de fechamento de RWA (Ativos Ponderados pelo Risco), assegurando maior acurácia analítica e redução de manualidades. Otimizo a performance e a confiabilidade de motores de cálculo financeiro, contribuindo para uma gestão de capital mais ágil e orientada a dados (data-driven) na organização.
+
+**Value Creation Analyst III** – [Patria Investments](https://www.patriainvestimentos.com.br/) _(Abr 2024 - Out 2024)_<br>
 _São Paulo - Brasil_<br>
 Apoiei a implementação de uma nova política de preços para uma distribuidora agropecuária, desenvolvendo indicadores de custo com base em dados de mercado obtidos por meio de APIs e scraping dos concorrentes na Web. Ajudei a implementar modelos para estimar o tamanho e a participação nas carteiras dos clientes. Trabalhei com clusterização geográfica de clientes potenciais, gerando um melhor entendimento das zonas de influência das lojas.
 
