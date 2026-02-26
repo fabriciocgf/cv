@@ -1,16 +1,15 @@
 <h2>Skills</h2>
-<p>● Pyton<br>
-● Pandas<br>
-● Scikit-learn<br>
-● Matplotlib<br>
-● Geopandas<br>
-● Dados Geoespaciais<br>
+<p>● Python<br>
+● Databricks & PySpark<br>
+● SQL Avançado / SQL Server<br>
+● Pandas, Scikit-learn, Matplotlib<br>
+● Geopandas & Dados Geoespaciais<br>
 ● Segmentação de clientes<br>
-● Grandes volumes de dados<br>
 ● Sistemas de recomendação<br>
-● Web Scraping/Crawling<br>
+● Liderança Técnica & Mentoria<br>
+● Gestão de Stakeholders (C-Level)<br>
+● Web Scraping / Crawling<br>
 ● Containers / Virtualização<br>
-● SQL Server<br>
 ● Git (CI/CD)<br>
 <br></p>
 
