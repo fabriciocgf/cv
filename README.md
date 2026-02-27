@@ -3,8 +3,7 @@ _Cientista de dados - São Paulo, Brasil_<br>
 
 ## Experiência profissional
 
-**Senior Platform Engineer** @ [Santander](https://www.santander.com.br/) _(Out 2024 - Presente)_<br>
-_São Paulo - Brazil_<br>
+**Senior Platform Engineer** @ [Santander](https://www.santander.com.br/) _(Out 2024 - Presente)_ _São Paulo - Brazil_<br>
 Atuo na equipe de melhoria contínua focada em rentabilidade e otimização de capital, com forte interação com stakeholders de negócios (gerentes e coordenadores de finanças) para definição de escopos e metas. Lidero iniciativas de automação e engenharia de dados para os processos de fechamento de RWA (Ativos Ponderados pelo Risco) utilizando Databricks, gerando uma economia de aproximadamente 36 horas de processamento por ciclo. Coordeno entregas e atuo como mentor técnico de 1 analista júnior e 4 consultores externos, aplicando _on-the-job training_, _pair coding_ e desenvolvimento de templates para acelerar a curva de aprendizado da equipe. Otimizo a performance e a confiabilidade de motores de cálculo financeiro, contribuindo para uma gestão de capital mais ágil e orientada a dados (data-driven) na organização.
 
 **Value Creation Analyst III** – [Patria Investments](https://www.patriainvestimentos.com.br/) _(Abr 2024 - Out 2024)_<br>
